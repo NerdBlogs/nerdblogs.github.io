@@ -1,7 +1,7 @@
 main:
   - title: "Blogginlägg"
     url: /posts/
-  - title: "Kategroier"
+  - title: "Kategorier"
     url: /categories/
   - title: "Taggar"
     url: /tags/
