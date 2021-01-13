@@ -1,11 +1,12 @@
 ---
 layout: default
+header.show_overlay_excerpt
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
+  {% include page__hero_mod.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
-  {% include page__hero_video.html %}
+  {% include page__hero_video_mod.html %}
 {% endif %}
 
 {% if page.url != "/" and site.breadcrumbs %}
