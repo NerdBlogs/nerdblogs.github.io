@@ -22,7 +22,7 @@
         {% elsif words == words_per_minute %}
           1 {{ site.data.ui-text[site.locale].minute_read | default: "minut att läsa" }}
         {% else %}
-          {{ words | divided_by: words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minuter att läsa" }}
+          {{ words | divided_by: words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minut(er) att läsa" }}
         {% endif %}
       </span>
     {% endif %}
