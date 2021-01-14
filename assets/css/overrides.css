@@ -1,6 +1,7 @@
 .archive {
   padding-right:0;
   width:auto;
+  float:none;
 }
 
 .page__related {
