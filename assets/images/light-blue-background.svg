@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Lager_1" x="0" y="0" version="1.1" viewBox="0 0 285.21 33.5" xml:space="preserve">
+<linearGradient id="SVGID_2_" x1="-5.549" x2="262.258" y1="283.146" y2="262.75" gradientTransform="translate(0 -264.608)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fbfbfb"/>
+    <stop offset=".5" stop-color="#f6f6f6"/>
+    <stop offset="1" stop-color="#fbfbfb"/>
+</linearGradient>
+  <path fill="url(#SVGID_2_)" d="M191.18 16.36c-14.34-1.82-28.41-4.25-42.44-6.69-7.89-1.37-15.77-2.73-23.68-3.99-10.37-.82-20.75-1.24-30.45-.97C45.12 6.11 25.92 17.66 0 32.14v1.36H285.21V14.47c-33.92 6.77-64.57 5.63-94.03 1.89z"/>
+  <linearGradient id="SVGID_1_" x1="-5.549" x2="262.258" y1="283.146" y2="262.75" gradientTransform="translate(0 -264.608)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#bedee5"/>
+    <stop offset="1" stop-color="#5c9caa"/>
+  </linearGradient>
+  <path fill="url(#SVGID_1_)" d="M125.06 5.68C85.9-.55 45.95-4.1 0 8.29v23.85C25.92 17.66 45.12 6.11 94.61 4.71c9.71-.27 20.09.16 30.45.97z"/>
+</svg>
