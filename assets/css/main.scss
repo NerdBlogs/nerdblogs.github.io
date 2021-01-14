@@ -7,4 +7,4 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@import "_p_footer.scss"
+@import "/assets/css/_p_footer.scss"
