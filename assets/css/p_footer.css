@@ -26,6 +26,7 @@ div.socialMedia {
   flex-wrap: wrap;
   margin-bottom: 40px;
   justify-content: center;
+  background: linear-gradient(90deg,#fbfbfb 0,#f6f6f6 50%,#fbfbfb) !important;
 }
 
 a.socialMedia__iconHolder {
