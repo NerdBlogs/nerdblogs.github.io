@@ -24,7 +24,7 @@ div.socialMedia {
   box-sizing: border-box;
   display: flex;
   flex-wrap: wrap;
-  margin-bottom: 40px;
+  padding-bottom: 40px;
   justify-content: center;
   background: linear-gradient(90deg,#fbfbfb 0,#f6f6f6 50%,#fbfbfb) !important;
 }
