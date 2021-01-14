@@ -1,3 +1,9 @@
 .page__footer {
   background: linear-gradient(90deg,#fbfbfb 0,#f6f6f6 50%,#fbfbfb) !important;
 }
+
+.page_footer footer {
+  max-widht:100% !important;
+  padding-left:0;
+  padding-right:0;
+}
