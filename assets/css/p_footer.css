@@ -29,6 +29,90 @@ div.socialMedia {
   background: linear-gradient(90deg,#fbfbfb 0,#f6f6f6 50%,#fbfbfb) !important;
 }
 
+div.pageFooter__contactHolder {
+  line-height: 1.15;
+  --wp-admin-theme-color: #007cba;
+  --wp-admin-theme-color-darker-10: #006ba1;
+  --wp-admin-theme-color-darker-20: #005a87;
+  font-weight: 300;
+  color: #494949;
+  font-family: Open Sans,Helvetica,Arial,sans-serif;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+div.pageFooter__contactHolder > a {
+  line-height: 1.15;
+  --wp-admin-theme-color: #007cba;
+  --wp-admin-theme-color-darker-10: #006ba1;
+  --wp-admin-theme-color-darker-20: #005a87;
+  font-weight: 300;
+  font-family: Open Sans,Helvetica,Arial,sans-serif;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+  box-sizing: border-box;
+  background-color: transparent;
+  text-decoration: none;
+  transition: .25s;
+  margin: 0 15px;
+  display: inline-block;
+  color: #139aaf;
+}
+
+div.pageFooter__contactHolder > a > span {
+  line-height: 1.15;
+  --wp-admin-theme-color: #007cba;
+  --wp-admin-theme-color-darker-10: #006ba1;
+  --wp-admin-theme-color-darker-20: #005a87;
+  font-weight: 300;
+  font-family: Open Sans,Helvetica,Arial,sans-serif;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+  color: #139aaf;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+}
+div.pageFooter__contactHolder > a > span > img {
+  line-height: 1.15;
+  --wp-admin-theme-color: #007cba;
+  --wp-admin-theme-color-darker-10: #006ba1;
+  --wp-admin-theme-color-darker-20: #005a87;
+  font-weight: 300;
+  font-family: Open Sans,Helvetica,Arial,sans-serif;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+  color: #139aaf;
+  box-sizing: border-box;
+  border-style: none;
+  max-width: 100%;
+  height: auto;
+  width: 16px;
+  margin-right: 15px;
+}
+
+div.pageFooter__contactHolder > a > span > span {
+  --wp-admin-theme-color: #007cba;
+  --wp-admin-theme-color-darker-10: #006ba1;
+  --wp-admin-theme-color-darker-20: #005a87;
+  font-family: Open Sans,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+  color: #139aaf;
+  box-sizing: border-box;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.93;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;  
+}
+
 a.socialMedia__iconHolder {
   line-height: 1.15;
   --wp-admin-theme-color: #007cba;
