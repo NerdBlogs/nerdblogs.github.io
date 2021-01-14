@@ -1,20 +1,19 @@
 <img class="references__bottomImage" src="https://www.infozone.se/wp-content/themes/infozone/assets/images/light-blue-background.svg" style="max-width:100%;" alt="">
 <div class="page__footer-follow" style="margin-top:0;">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-
-    {% if site.footer.links %}
-      {% for link in site.footer.links %}
-        {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
-
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-  </ul>
+<div class="socialMedia">
+            <a class="socialMedia__iconHolder" href="https://www.linkedin.com/company/404255/" target="_blank">
+            <img class="socialMedia__icon" src="https://www.infozone.se/wp-content/themes/infozone/assets/images/icon-linkedin.svg" alt="">
+        </a>
+            <a class="socialMedia__iconHolder" href="https://www.facebook.com/infozoneswe/" target="_blank">
+            <img class="socialMedia__icon" src="https://www.infozone.se/wp-content/themes/infozone/assets/images/icon-facebook.svg" alt="">
+        </a>
+            <a class="socialMedia__iconHolder" href="https://www.youtube.com/channel/UCidw2T7aiZ3eQs4B_Sk58gg" target="_blank">
+            <img class="socialMedia__icon" src="https://www.infozone.se/wp-content/themes/infozone/assets/images/icon-youtube.svg" alt="">
+        </a>
+            <a class="socialMedia__iconHolder" href="https://www.instagram.com/infozonegroup/" target="_blank">
+            <img class="socialMedia__icon" src="https://www.infozone.se/wp-content/themes/infozone/assets/images/icon-instagram.svg" alt="">
+        </a>
+    </div>
 </div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
