@@ -2,7 +2,7 @@
 title: "Utveckla .NET applikationer i Visual Studio Code"
 date: 2020-10-19T17:00:00+01:00
 author: Andreas Hagsten
-excerpt: "<!--more-->"
+excerpt: <!--more-->
 categories:
   - blog
 tags:
