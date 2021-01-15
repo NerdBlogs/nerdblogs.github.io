@@ -2,7 +2,7 @@
 title: "Utveckla .NET applikationer i Visual Studio Code"
 date: 2020-10-19T17:00:00+01:00
 author: Andreas Hagsten
-excerpt: "Den här bloggposten är en enkel steg för steg-post för att komma igång med utveckling av .NET core i Visual Studio Code. En kollega berättade nyligen att han precis hade gått över från Visual Studio till Visual Studio Code som sin primära editor när det kommer till .NET-applikationer. Jag hade koll på att det var klart möjligt men trodde inte att det var så pass moget att gå över till helt. Det lät intressant och det började givetvis klia i fingrarna."
+custom_excerpt: "Den här bloggposten är en enkel steg för steg-post för att komma igång med utveckling av .NET core i Visual Studio Code. En kollega berättade nyligen att han precis hade gått över från Visual Studio till Visual Studio Code som sin primära editor när det kommer till .NET-applikationer. Jag hade koll på att det var klart möjligt men trodde inte att det var så pass moget att gå över till helt. Det lät intressant och det började givetvis klia i fingrarna."
 categories:
   - blog
 tags:
