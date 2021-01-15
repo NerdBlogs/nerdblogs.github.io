@@ -10,7 +10,7 @@ tags:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/close-up-of-hands-contemporary-website-developer-man-typing-and-code-picture-id1167467556.jpeg 
+  overlay_image: https://www.infozone.se/wp-content/uploads/2020/10/close-up-of-hands-contemporary-website-developer-man-typing-and-code-picture-id1167467556.jpg
 ---
 Den här bloggposten är en enkel steg för steg-post för att komma igång med utveckling av .NET core i Visual Studio Code. En kollega berättade nyligen att han precis hade gått över från Visual Studio till Visual Studio Code som sin primära editor när det kommer till .NET-applikationer. Jag hade koll på att det var klart möjligt men trodde inte att det var så pass moget att gå över till helt. Det lät intressant och det började givetvis klia i fingrarna.
 
