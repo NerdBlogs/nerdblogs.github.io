@@ -107,6 +107,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # drafts
+  - scope:
+      path: "drafts"
+      type: posts
+    values:
+      layout: single
+      author_profile: true      
 
 category_archive:
   type: liquid
