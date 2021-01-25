@@ -110,7 +110,7 @@ defaults:
   # drafts
   - scope:
       path: "drafts"
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true      
