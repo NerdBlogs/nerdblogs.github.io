@@ -9,7 +9,6 @@ categories:
   - blog
 tags:
   - systemutveckling
-layout: single
 ---
 # Rubrik 1
 Test123 fyra, fem!
