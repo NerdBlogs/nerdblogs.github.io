@@ -15,4 +15,4 @@ Test123 fyra, fem!
 
 ## Haha!
 
-{% gist 4f4a482a25728513ca4bf81e58661faa#file-valueequality-cs %}
+{% gist 4f4a482a25728513ca4bf81e58661faa ValueEquality.cs %}
